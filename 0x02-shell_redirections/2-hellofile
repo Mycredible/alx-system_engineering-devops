@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /direc/file
+cat /etc/passwd
